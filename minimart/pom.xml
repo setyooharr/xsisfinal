@@ -15,7 +15,7 @@
 		<org.springframework.security-version>4.0.2.RELEASE</org.springframework.security-version>
 		<org.aspectj-version>1.8.10</org.aspectj-version>
 		<org.slf4j-version>1.6.6</org.slf4j-version>
-		<org.apache.log4j-version>2.8.1</org.apache.log4j-version>
+		<org.apache.log4j-version>2.13.3</org.apache.log4j-version>
 		<org.hibernate-version>4.3.10.Final</org.hibernate-version>
 		<com.fasterxml.jackson-version>2.8.7</com.fasterxml.jackson-version>
 	</properties>
